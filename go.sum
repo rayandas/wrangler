@@ -129,8 +129,8 @@ github.com/prometheus/common v0.43.0 h1:iq+BVjvYLei5f27wiuNiB1DN6DYQkp1c8Bx0Vykh
 github.com/prometheus/common v0.43.0/go.mod h1:NCvr5cQIh3Y/gy73/RdVtC9r8xxrxwJnB+2lB3BxrFc=
 github.com/prometheus/procfs v0.9.0 h1:wzCHvIvM5SxWqYvwgVL7yJY8Lz3PKn49KQtpgMYJfhI=
 github.com/prometheus/procfs v0.9.0/go.mod h1:+pB4zwohETzFnmlpe6yd2lSc+0/46IYZRB/chUwxUZY=
-github.com/rancher/lasso v0.0.0-20230502204209-3eb356f3e8cf h1:ZfjUaNDL46WGGmInoJ5xqXUbcRoVznPXwPQtjV95ubA=
-github.com/rancher/lasso v0.0.0-20230502204209-3eb356f3e8cf/go.mod h1:dEfC9eFQigj95lv/JQ8K5e7+qQCacWs1aIA6nLxKzT8=
+github.com/rayandas/lasso v0.0.0-20230518125646-f2b9f0f2690c h1:uds2tkkF+8pZT5uqPy+7eMIfI59CCywwc3K5sG3vdXs=
+github.com/rayandas/lasso v0.0.0-20230518125646-f2b9f0f2690c/go.mod h1:3DlVhCLpxt97/rJezmOfTda+oOAbZd28cu5wUQNPeV8=
 github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
 github.com/rogpeppe/go-internal v1.10.0 h1:TMyTOH3F/DB16zRVcYyreMH6GnZZrwQVAoYjRBZyWFQ=
 github.com/sirupsen/logrus v1.9.2 h1:oxx1eChJGI6Uks2ZC4W1zpLlVgqB8ner4EuQwV4Ik1Y=

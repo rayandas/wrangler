@@ -2,6 +2,8 @@ module github.com/rancher/wrangler
 
 go 1.20
 
+replace github.com/rancher/lasso => github.com/rayandas/lasso v1.27-rancher1
+
 require (
 	github.com/evanphx/json-patch v5.6.0+incompatible
 	github.com/ghodss/yaml v1.0.0
